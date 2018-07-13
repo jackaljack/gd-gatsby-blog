@@ -31,7 +31,7 @@
     "typeface-montserrat": "^0.0.37",
     "typography": "^0.16.0",
     "typography-breakpoint-constants": "^0.15.10",
-    "typography-plugin-code": "^0.15.11",
+    "typography-plugin-code": "^0.16.0",
     "typography-theme-fairy-gates": "^0.15.11",
     "typography-theme-wordpress-2016": "^0.15.1"
   },
