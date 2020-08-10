@@ -27,7 +27,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "gatsby": "next",
+    "gatsby": "2.23.20",
     "gatsby-plugin-feed": "next",
     "gatsby-plugin-manifest": "next",
     "gatsby-plugin-offline": "next",
@@ -44,7 +44,7 @@
     "gatsby-transformer-remark": "next",
     "gatsby-transformer-sharp": "next",
     "lodash": "4.17.11",
-    "prismjs": "1.15.0",
+    "prismjs": "1.21.0",
     "react": "16.8.4",
     "react-dom": "16.8.4",
     "react-helmet": "5.2.0",
